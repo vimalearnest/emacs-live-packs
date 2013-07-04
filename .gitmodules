@@ -67,3 +67,6 @@
 [submodule "ruby-pack"]
 	path = ruby-pack
 	url = git@github.com:cap10morgan/ruby-pack.git
+[submodule "erlang-pack"]
+	path = erlang-pack
+	url = git@github.com:vimalearnest/erlang-pack.git
