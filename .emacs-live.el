@@ -13,11 +13,13 @@
                                          ;; installing el-get
 ;;                                         "el-get-pack"
                                          ;; buffer manipulation
-                                         "buffer-pack"
+                                         ;;"buffer-pack"
                                          ;; a pack to mess around until drying stuff
-                                         "scratch-pack"
+                                         ;;"scratch-pack"
                                          ;; a setup blog pack for wordpress
-                                         "blog-pack"
+                                         ;;"blog-pack"
+                                         ;; erlang dev env
+                                         "erlang-pack"
                                          ;; haskell dev env
                                          "haskell-pack"
                                          ;; setup org-mode
@@ -27,31 +29,31 @@
                                          ;; setup regarding git
                                          "git-pack"
                                          ;; setup mail credentials
-                                         "mail-pack"
+                                         ;;"mail-pack"
                                          ;; shell manipulation
                                          "shell-pack"
                                          ;; browser manipulation
-                                         "browser-pack"
+                                         ;;"browser-pack"
                                          ;; irc credential setup
-                                         "chat-pack"
+                                         ;;"chat-pack"
                                          ;; clojure override bindings from emacs-live
-                                         "clojure-pack"
+                                         ;;"clojure-pack"
                                          ;; nrepl override bindings from nrepl
-                                         "nrepl-pack"
+                                         ;;"nrepl-pack"
                                          ;; clojurescript setup
-                                         "clojurescript-pack"
+                                         ;;"clojurescript-pack"
                                          ;; caml dev env
-                                         "caml-pack"
+                                         ;;"caml-pack"
                                          ;; adding stuff regarding emacs modeline
-                                         "modeline-pack"
+                                         ;;"modeline-pack"
                                          ;; twitter credentials setup
-                                         "twitter-pack"
+                                         ;;"twitter-pack"
                                          ;; some puppet related pack
-                                         "puppet-pack"
+                                         ;;"puppet-pack"
                                          ;; chrome editing textarea using emacs
-                                         "chrome-pack"
+                                         ;;"chrome-pack"
                                          ;; deal with macro
-                                         "macro-pack"
+                                         ;;"macro-pack"
                                          ;; ruby
                                          ;;"ruby-pack"
 ))
