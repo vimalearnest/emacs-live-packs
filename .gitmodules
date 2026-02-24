@@ -1,0 +1,30 @@
+[submodule "projectile-pack"]
+	path = projectile-pack
+	url = git@github.com:vimalearnest/projectile-pack.git
+[submodule "elixir-pack"]
+	path = elixir-pack
+	url = git@github.com:vimalearnest/elixir-pack.git
+[submodule "erlang-pack"]
+	path = erlang-pack
+	url = git@github.com:vimalearnest/erlang-pack.git
+[submodule "rest-client-pack"]
+	path = rest-client-pack
+	url = git@github.com:vimalearnest/rest-client-pack.git
+[submodule "org-mode-pack"]
+	path = org-mode-pack
+	url = git@github.com:vimalearnest/org-mode-pack.git
+[submodule "es-mode-pack"]
+	path = es-mode-pack
+	url = git@github.com:vimalearnest/es-mode-pack.git
+[submodule "ack-pack"]
+	path = ack-pack
+	url = git@github.com:vimalearnest/ack-pack.git
+[submodule "slime-pack"]
+	path = slime-pack
+	url = git@github.com:vimalearnest/slime-pack.git
+[submodule "solarized-pack"]
+	path = solarized-pack
+	url = git@github.com:vimalearnest/solarized-pack.git
+[submodule "lisp-pack"]
+	path = lisp-pack
+	url = git@github.com:vimalearnest/lisp-pack.git
